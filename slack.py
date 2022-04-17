@@ -22,7 +22,7 @@ response = webhook.send(
             "type": "section",
             "text": {
                 "type": "mrkdwn",
-                "text": "A very important thing has occurred! <https://alert-system.com/alerts/1234|Click here> for details!"
+                "text": "A very important thcfgvhbjning has occurred! <https://alert-system.com/alerts/1234|Click here> for details!"
             }
         }
     ]
