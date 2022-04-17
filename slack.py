@@ -1,5 +1,5 @@
 from slack_sdk.webhook import WebhookClient
-url = "https://hooks.slack.com/services/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"
+url = ""
 webhook = WebhookClient(url)
 
 response = webhook.send(
